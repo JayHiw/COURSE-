@@ -21,6 +21,50 @@ This repository also reflects my academic and self-learning journey across core 
 - Function and Operator Overloading  
 - Memory management using pointers and references  
 - Writing efficient and structured C++ programs  
+OOP-Using-CPP-Lab/
+│
+├── README.md
+│
+├── 01_Tokens_Expressions_Control/
+│   ├── program_01_add_sub.cpp
+│   ├── program_02_swap_third.cpp
+│   ├── program_03_swap_no_third.cpp
+│   ├── program_04_circle_area_perimeter.cpp
+│   ├── program_05_celsius_to_fahrenheit.cpp
+│   └── program_06_positive_negative_zero.cpp
+│
+├── 02_Functions_CPP/
+│   ├── call_by_value.cpp
+│   ├── call_by_reference.cpp
+│   ├── function_overloading.cpp
+│   └── inline_function.cpp
+│
+├── 03_Classes_Objects/
+│   ├── simple_class.cpp
+│   ├── array_of_objects.cpp
+│   └── objects_as_arguments.cpp
+│
+├── 04_Constructors_Destructors/
+│   ├── default_constructor.cpp
+│   ├── parameterized_constructor.cpp
+│   ├── copy_constructor.cpp
+│   └── destructor.cpp
+│
+├── 05_Operator_Overloading/
+│   ├── unary_operator.cpp
+│   ├── binary_operator.cpp
+│   └── friend_operator.cpp
+│
+├── 06_Inheritance/
+│   ├── single_inheritance.cpp
+│   ├── multilevel_inheritance.cpp
+│   ├── hierarchical_inheritance.cpp
+│   └── virtual_base_class.cpp
+│
+└── 07_Polymorphism_Pointers/
+    ├── pointers_to_objects.cpp
+    ├── virtual_function.cpp
+    └── pure_virtual_function.cpp
 
 ### 🖥️ Operating Systems
 - Introduction to Operating Systems  
