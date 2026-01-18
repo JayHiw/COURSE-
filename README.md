@@ -82,3 +82,54 @@ OOP-Using-CPP-Lab/
 - Applying theoretical concepts through implementation  
 
 > These courses form the foundation of my journey toward becoming a strong software engineer with a deep understanding of systems and programming.
+
+Fibonacci Series (n terms)
+def fibonacci(n):
+    a, b = 0, 1
+    for _ in range(n):
+        print(a, end=" ")
+        a, b = b, a + b
+
+fibonacci(10)
+
+
+
+Count Vowels in a String
+def count_vowels(s):
+    vowels = "aeiouAEIOU"
+    return sum(1 for char in s if char in vowels)
+
+print(count_vowels("Artificial Intelligence"))
+
+
+Find Maximum Element in a List
+def find_max(arr):
+    max_val = arr[0]
+    for num in arr:
+        if num > max_val:
+            max_val = num
+    return max_val
+
+print(find_max([10, 25, 5, 60, 12]))
+
+
+
+
+
+Linear Search
+def linear_search(arr, key):
+    for i in range(len(arr)):
+        if arr[i] == key:
+            return i
+    return -1
+
+print(linear_search([4, 7, 1, 9, 3], 9))
+
+
+Factorial Using Recursion
+def factorial(n):
+    if n == 0 or n == 1:
+        return 1
+    return n * factorial(n - 1)
+
+print(factorial(5))
