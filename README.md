@@ -1,10 +1,5 @@
 # COURSE
 
-This repository documents my academic coursework and parallel self-learning journey in Computer Science.
-It focuses on building strong fundamentals, problem-solving ability, and practical implementation skills.
-
----
-
 ## 📘 Courses & Learning Focus
 
 This repository reflects my progress across core computer science subjects, with an emphasis on:
