@@ -9,7 +9,7 @@ This repository reflects my progress across core computer science subjects, with
 
 ---
 
-## 🐍 Python Programming — Checklist
+##  Python Programming — Checklist
 
 ### Core Concepts
 - [x] Python syntax and basics  
@@ -39,7 +39,7 @@ This repository reflects my progress across core computer science subjects, with
 
 ---
 
-## 💻 C++ with Object-Oriented Programming — Checklist
+##  C++ with Object-Oriented Programming — Checklist
 
 ### Basics
 - [x] Tokens, expressions, and control statements  
@@ -79,7 +79,4 @@ This repository reflects my progress across core computer science subjects, with
 - [x] Virtual functions  
 - [x] Pure virtual functions  
 
----
-
-## 🗂️ OOP Using C++ — Repository Structure
 
