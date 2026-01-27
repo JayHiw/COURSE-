@@ -2,13 +2,7 @@
 
 ## 📘 Courses & Learning Focus
 
-This repository reflects my progress across core computer science subjects, with an emphasis on:
-- Concept clarity
-- Hands-on coding
-- Long-term revision and consistency
-
----
-
+This repository reflects my progress across core computer science subjects, with an emphasis on
 ##  Python Programming — Checklist
 
 ### Core Concepts
