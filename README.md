@@ -1,6 +1,4 @@
-# COURSE
-
-## 📘 Courses & Learning Focus
+#Courses & Learning Focus
 
 This repository reflects my progress across core computer science subjects, with an emphasis on
 ##  Python Programming — Checklist
