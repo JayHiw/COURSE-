@@ -59,7 +59,6 @@ This repository reflects my progress across core computer science subjects, with
 - [x] Unary operator overloading  
 - [x] Binary operator overloading  
 - [x] Friend operator overloading  
-
 ### Inheritance
 - [x] Single inheritance  
 - [x] Multilevel inheritance  
