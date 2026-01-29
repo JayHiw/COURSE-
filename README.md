@@ -31,7 +31,7 @@ This repository reflects my progress across core computer science subjects, with
 
 ---
 
-##  C++ with Object-Oriented Programming — Checklist
+##  C++ with Object-Oriented Programming 
 
 ### Basics
 - [x] Tokens, expressions, and control statements  
