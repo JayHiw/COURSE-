@@ -1,7 +1,5 @@
 #Courses & Learning Focus
-
-This repository reflects my progress across core computer science subjects, with an emphasis on
-##  Python Programming — Checklist
+## Programming — Checklist
 
 ### Core Concepts
 - [x] Python syntax and basics  
