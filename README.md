@@ -1,5 +1,5 @@
 #Courses & Learning Focus
-## Programming — Checklist
+
 
 ### Core Concepts
 - [x] Python syntax and basics  
