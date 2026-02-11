@@ -24,7 +24,6 @@
 - [x] Foundation for Data Science  
 - [ ] Backend-oriented projects  
 
----
 
 ##  C++ with Object-Oriented Programming 
 
