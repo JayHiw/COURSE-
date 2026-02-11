@@ -59,9 +59,5 @@
 - [x] Hierarchical inheritance  
 - [x] Virtual base class  
 
-### Polymorphism & Pointers
-- [x] Pointers to objects  
-- [x] Virtual functions  
-- [x] Pure virtual functions  
 
 
