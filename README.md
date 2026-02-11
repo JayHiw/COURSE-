@@ -1,6 +1,3 @@
-#Courses & Learning Focus
-
-
 ### Core Concepts
 - [x] Python syntax and basics  
 - [x] Data types  
