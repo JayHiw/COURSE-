@@ -49,15 +49,5 @@
 - [x] Copy constructor  
 - [x] Destructor  
 
-### Operator Overloading
-- [x] Unary operator overloading  
-- [x] Binary operator overloading  
-- [x] Friend operator overloading  
-### Inheritance
-- [x] Single inheritance  
-- [x] Multilevel inheritance  
-- [x] Hierarchical inheritance  
-- [x] Virtual base class  
-
 
 
