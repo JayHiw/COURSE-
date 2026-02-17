@@ -1,4 +1,4 @@
-### Core Concepts
+
 - [x] Python syntax and basics  
 - [x] Data types  
 - [x] Control flow (if, loops)  
