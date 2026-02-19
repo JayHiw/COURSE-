@@ -1,9 +1,5 @@
 
-- [x] Python syntax and basics  
-- [x] Data types  
-- [x] Control flow (if, loops)  
-- [x] Functions  
-
+-
 ### Intermediate Topics
 - [x] Modules  
 - [x] File handling  
