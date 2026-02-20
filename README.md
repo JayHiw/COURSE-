@@ -1,6 +1,4 @@
 
--
-### Intermediate Topics
 - [x] Modules  
 - [x] File handling  
 - [x] Exception handling  
